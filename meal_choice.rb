@@ -1,6 +1,5 @@
 def meal_choice(a,b = "meat")
-  puts b
-meal_choice=("vegan")
+meal_choice=("meat")
 end
 
 
