@@ -1,5 +1,5 @@
 def meal_choice(a,b = "meat")
-meal_choice=(a,"meat")
+meal_choice(a,"meat")
 end
 
 #end
