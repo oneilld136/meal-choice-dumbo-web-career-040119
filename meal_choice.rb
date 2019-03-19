@@ -1,4 +1,5 @@
-def meal_choice(x, meal_choice = "meat")
+def meal_choice(anything, meal_choice = "meat")
+  puts [anything,meal_choice="meat"]
 meal_choice=("vegan")
 end
 
