@@ -1,6 +1,5 @@
 def meal_choice(a,b="meat")
 meal_choice=("vegan")
-  end  
 end
 
 
