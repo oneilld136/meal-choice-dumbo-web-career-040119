@@ -1,5 +1,8 @@
 def meal_choice(a,b = "meat")
-meal_choice=("meat")
+meal_choice=(a,b)
+rescue ExceptionName
+  
+end)
 end
 def meal_choice
   meal_choice="vegan"
